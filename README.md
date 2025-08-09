@@ -1,6 +1,38 @@
-# Veritas dApp - Decentralized Freelance Marketplace
+![app-icon-512 (1)](https://github.com/user-attachments/assets/6f2d15e2-5e40-4974-8c87-89522d0d6618)# Veritas dApp - Decentralized Freelance Marketplace
 
-![Veritas Logo]([https://veritas-works.cloud/app-icon-512.svg])
+![Uploadin<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" rx="80" fill="url(#mainGradient)"/>
+  
+  <!-- Main V Shape (Veritas) -->
+  <path d="M160 160 L256 340 L352 160" stroke="#ffffff" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- Verification Badge -->
+  <circle cx="400" cy="120" r="48" fill="#10b981"/>
+  <path d="M380 120 L395 135 L420 110" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Connection Dots -->
+  <circle cx="120" cy="200" r="20" fill="#ffffff" opacity="0.8"/>
+  <circle cx="392" cy="200" r="20" fill="#ffffff" opacity="0.8"/>
+  <circle cx="256" cy="380" r="20" fill="#ffffff" opacity="0.8"/>
+  
+  <!-- Subtle Connection Lines -->
+  <line x1="140" y1="200" x2="236" y2="300" stroke="#ffffff" stroke-width="4" opacity="0.4"/>
+  <line x1="372" y1="200" x2="276" y2="300" stroke="#ffffff" stroke-width="4" opacity="0.4"/>
+  
+  <!-- Brand Text -->
+  <text x="256" y="450" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="48" font-weight="bold" opacity="0.9">VERITAS</text>
+  
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="mainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1d4ed8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>g app-icon-512 (1).svg…]()
+
 
 ## Overview
 
