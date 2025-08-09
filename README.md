@@ -1,6 +1,6 @@
 # Veritas dApp - Decentralized Freelance Marketplace
 
-![Veritas Logo](https://via.placeholder.com/200x80/3B82F6/FFFFFF?text=VERITAS)
+![Veritas Logo]([https://via.placeholder.com/200x80/3B82F6/FFFFFF?text=VERITAS](https://veritas-works.cloud/app-icon-512.svg))
 
 ## Overview
 
